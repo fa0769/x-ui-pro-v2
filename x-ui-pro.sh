@@ -151,8 +151,7 @@ if systemctl is-active --quiet x-ui; then
 	x-ui restart
 else
 	PANEL=(	 "https://raw.githubusercontent.com/alireza0/x-ui/master/install.sh"
-		 "https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh"
-  		 "https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install_en.sh"
+  		 "https://raw.githubusercontent.com/AghayeCoder/tx-ui/${VERSION}/install.sh"
 		)
 
 	printf 'n\n' | bash <(wget -qO- "${PANEL[$PNLNUM]}")
