@@ -16,9 +16,9 @@
 **Install Panel**:dvd::package:
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -install yes -panel 1
+bash <(wget -qO- https://raw.githubusercontent.com/GFW4Fun/x-ui-pro/master/x-ui-pro.sh) -install yes -panel 2
 ```
-> -panel 0>alireza 1>MHSanaei 2>FranzKafkaYu
+> -panel 0>alireza 1>MHSanaei 2>AghayeCoder
 > 
 > For the additional subdomain, New A,AAAA[VPSIP] Recorde , no any config in vps!!!
 >
